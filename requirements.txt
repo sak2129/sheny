@@ -1,0 +1,6 @@
+pandas
+selenium
+argparse
+numpy
+time
+sys
